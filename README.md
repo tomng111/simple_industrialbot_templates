@@ -1,0 +1,1 @@
+# simple_industrialbots_templates
